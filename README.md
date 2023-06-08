@@ -1,3 +1,4 @@
 # TP Introducción al aprendizaje automatico
-Repositorio del TP final de IAA donde iremos actualizando el trabajo hecho
-lalalalalal
+# TEAM ROCKET
+
+Repositorio del TP final de IAA
