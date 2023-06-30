@@ -1,5 +1,11 @@
 # TP Introducción al aprendizaje automatico
-# TEAM ROCKET
+
+Integrantes: 
+* Lautaro Terreno
+* Matias Mattioli
+* Nazareno Magallanes
+
+# Enfoque
 
 En este trabajo implementaremos Machine Learning Supervisado para intentar crear un modelo de predicción para peleas entre pokemones 1 vs 1.
 
